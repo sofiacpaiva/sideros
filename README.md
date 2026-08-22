@@ -1,4 +1,4 @@
-# Sideros.
+# Sideros
 
 Acervo de postagens autorais e registros de imersão. Um espaço pessoal e digital desenvolvido para o acompanhamento narrativo em role-playing-game, servindo como uma extensão do universo e da psique do personagem.
 
