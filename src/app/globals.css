@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Rascal';
+  src: url('/fonts/RASCAL__.TTF') format('truetype');
+}
+
+.font-rascal {
+  font-family: 'Rascal', serif;
+}
+
+body {
+  background-color: #FCFBF9;
+  color: #2C2C2C;
+}
