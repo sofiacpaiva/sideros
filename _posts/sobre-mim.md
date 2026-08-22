@@ -15,6 +15,6 @@ O Sideros é um projeto piloto e independente criado por K.Y.P. em 2024, concebi
 
 ## O propósito do Acervo
 Mais do que uma simples página na internet, o Sideros funciona como um laboratório de ideias e um arquivo de observações. Cada texto publicado aqui é um fragmento de pensamento, numa tentativa de conectar pontos que aparentemente não conversam entre si. 
->"*A ciência explica o funcionamento do mundo, a arte lhe dá signigicado, a literatura nos ensina a habitá-lo.*"
+>"*A ciência explica o funcionamento do mundo, a arte lhe dá significado, a literatura nos ensina a habitá-lo.*"
 
 Sinta-se à vontade para explorar os arquivos, navegar pelas categorias e perder-se entre as reflexões. O universo é vasto, e o Sideros é apenas o nosso ponto de partida.
